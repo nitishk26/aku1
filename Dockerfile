@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM openjdk:8
 
 ENV PORT=8080
 ENV M2_HOME=/usr/lib/mvn
